@@ -1,0 +1,3 @@
+file_to_change_owner="hello"
+new_owner="betty"
+chown "$new_owner" "$file_to_change_owner"
